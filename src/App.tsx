@@ -25,7 +25,7 @@ const PROJECTS: Project[] = [
     name: "portfolio.exe",
     desc: "This very site. Hacked together with React, TypeScript, and a deep love for the Matrix aesthetic.",
     tags: ["React", "TypeScript", "CSS"],
-    url: "https://github.com/doriankalisa",
+    url: "https://github.com/900hacked/my-portfolio",
     status: "ACTIVE",
   },
   {
